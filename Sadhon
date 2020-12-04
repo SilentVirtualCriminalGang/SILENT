@@ -49,15 +49,13 @@ def jalan(z):
 ##### LOGO #####
 logo = """
 \033[1;91m    ♦♦♦—————————————————-------------——————————————♦♦♦
-\033[1;96m        ____ ____  ___ __  __ ___ _   _    _    _
+\033[1;96m                   
+                  ____ ____  ___ __  __ ___ _   _    _    _
                  / ___|  _ \|_ _|  \/  |_ _| \ | |  / \  | |
                 | |   | |_) || || |\/| || ||  \| | / _ \ | |
                 | |___|  _ < | || |  | || || |\  |/ ___ \| |___
                  \____|_| \_\___|_|  |_|___|_| \_/_/   \_\_____|
 
-"""
-       
-                 
 \033[1;96m               Criminal Updated 0.4                   
 \033[1;91m    ♦♦♦———————————————--------------————————————————♦♦♦
 """
@@ -96,8 +94,8 @@ jalan("\033[1;97m•◈•  \___ \ / _ \ | | | | |_| | | | |  \| |")
 jalan("\033[1;96m•◈•   ___) / ___ \| |_| |  _  | |_| | |\  |")
 jalan("\033[1;96m•◈•  |____/_/   \_\____/|_| |_|\___/|_| \_|")
  
-jalan("   \033[1;91m BANGLADESHI USERZ USE ANY PROXY ")	
-jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
+jalan("   \033[1;91m SILENT VIRTUAL CRIMINAL GANG ")	
+jalan("   \033[1;91m FOUNDER KAZI ASHRAFUZZAMAN SADHON  ")	
 
 jalan("   \033[1;93m Welcome to Silent World")
 
@@ -120,7 +118,7 @@ while (loop == 'true'):
             os.system('xdg-open https://www.facebook.com/SADHON.AK47')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/Shohag.HyperFounder')
+        os.system('xdg-open https://www.facebook.com/SADHON.AK47')
 
 def login():
 	os.system('clear')
